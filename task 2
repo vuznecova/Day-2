@@ -7,7 +7,7 @@ public class Main {
         boolean b1 = scan.nextBoolean();
         System.out.print( "Input second boolean: " );
         boolean b2 = scan.nextBoolean();
-
+        
         System.out.println("Is " + b1 + " equal to " + b2 + "?");
         if ( b1 == b2 ) {
             System.out.println("true");
